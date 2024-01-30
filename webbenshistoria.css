@@ -1,0 +1,18 @@
+body{
+    width: 98%;
+    background-image: url(earth.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+.fråga{
+    margin: 5px;
+    padding: 4px;
+}
+li{
+    margin-bottom: 3px;
+}
